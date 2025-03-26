@@ -1,0 +1,9 @@
+print("hello")
+a=12;
+b=12;
+c=a+b;
+print(c)
+if(a>c):
+print("a is greater")
+else:
+print("c is greater")
